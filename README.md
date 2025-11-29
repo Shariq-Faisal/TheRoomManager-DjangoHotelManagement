@@ -98,24 +98,18 @@ python manage.py runserver
 
 ## 🎨 Screenshots
 
-![alt text](<Screenshot 2025-11-29 012531.png>)
+<img width="1919" height="1019" alt="Screenshot 2025-11-29 012531" src="https://github.com/user-attachments/assets/1fd7c576-c43b-4888-89f8-35c90062163e" />
+<img width="1919" height="1020" alt="Screenshot 2025-11-29 012553" src="https://github.com/user-attachments/assets/671509d0-bddb-4c25-b3cc-db874761bef7" />
+<img width="1899" height="1016" alt="Screenshot 2025-11-29 012636" src="https://github.com/user-attachments/assets/983e02bc-e252-40b8-98e5-451f2a7b193d" />
 
-![alt text](<Screenshot 2025-11-29 012553.png>)
-
-
-![alt text](<Screenshot 2025-11-29 012636.png>)
-
-![alt text](<Screenshot 2025-11-29 012654.png>) 
-
-![alt text](<Screenshot 2025-11-29 012803.png>)
-
-![alt text](<Screenshot 2025-11-29 012819.png>)
+<img width="1892" height="968" alt="Screenshot 2025-11-29 012654" src="https://github.com/user-attachments/assets/ebc4f964-cf1c-42ee-98c2-327ce208c636" />
+<img width="1860" height="864" alt="Screenshot 2025-11-29 012803" src="https://github.com/user-attachments/assets/b639611d-a33d-4f1e-9d29-6a2fd5396347" />
+<img width="1864" height="912" alt="Screenshot 2025-11-29 012819" src="https://github.com/user-attachments/assets/425cb831-09a5-4ae6-b364-44e01ac1d3d3" />
+<img width="1873" height="879" alt="Screenshot 2025-11-29 012833" src="https://github.com/user-attachments/assets/e49d0e36-00d7-47e4-9e25-a9ed3018c356" />
+<img width="1857" height="797" alt="Screenshot 2025-11-29 012848" src="https://github.com/user-attachments/assets/51f7523b-8288-4569-8a99-6277e8593b1e" />
+<img width="1844" height="914" alt="Screenshot 2025-11-29 012905" src="https://github.com/user-attachments/assets/39d64bb2-9de9-4f2a-a68c-00aa81f04c98" />
 
 
-![alt text](<Screenshot 2025-11-29 012833.png>)
-   
-![alt text](<Screenshot 2025-11-29 012848.png>)
-![alt text](<Screenshot 2025-11-29 012905.png>) 
 
 ---
 
